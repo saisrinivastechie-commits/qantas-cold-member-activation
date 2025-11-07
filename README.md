@@ -15,6 +15,7 @@ This repository contains the architectural design documentation for the Qantas P
 
 ## Documentation Structure
 
+- [`SUBMISSION-GUIDE.md`](./SUBMISSION-GUIDE.md) - Comprehensive submission guide
 - [`architectural-design-document.md`](./architectural-design-document.md) - Complete architectural design document (5-7 pages)
 - [`diagrams/`](./diagrams/) - System architecture and data flow diagrams
 - [`state-machine-design.md`](./state-machine-design.md) - Member lifecycle state management
